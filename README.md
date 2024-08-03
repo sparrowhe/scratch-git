@@ -21,7 +21,7 @@ If you want to push your project to GitHub, you need ensure that you have alread
 ## Roadmap
 
 - [ ] Make the tool available on npm.
-- [ ] Use git hooks to automatically extract and pack the sb3 file.
+- [x] Use git hooks to automatically extract and pack the sb3 file.
 - [ ] Package manager for Scratch.
 - [ ] Support for other version control systems.
 
