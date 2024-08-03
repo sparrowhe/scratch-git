@@ -1,0 +1,97 @@
+{
+    "targets": [
+        {
+            "isStage": true,
+            "name": "Stage",
+            "variables": {
+                "`jEk@4|i[#Fk?(8x)AV.-my variable": [
+                    "我的变量",
+                    0
+                ]
+            },
+            "lists": {},
+            "broadcasts": {},
+            "blocks": {},
+            "comments": {},
+            "currentCostume": 0,
+            "costumes": [
+                {
+                    "name": "背景1",
+                    "dataFormat": "svg",
+                    "assetId": "cd21514d0531fdffb22204e0ec5ed84a",
+                    "md5ext": "cd21514d0531fdffb22204e0ec5ed84a.svg",
+                    "rotationCenterX": 240,
+                    "rotationCenterY": 180
+                }
+            ],
+            "sounds": [],
+            "volume": 100,
+            "layerOrder": 0,
+            "tempo": 60,
+            "videoTransparency": 50,
+            "videoState": "on",
+            "textToSpeechLanguage": null
+        },
+        {
+            "isStage": false,
+            "name": "角色1",
+            "variables": {},
+            "lists": {},
+            "broadcasts": {},
+            "blocks": {},
+            "comments": {
+                "a": {
+                    "blockId": null,
+                    "x": 709.6296296296296,
+                    "y": 435.55555555555554,
+                    "width": 357.037109375,
+                    "height": 114.0740966796875,
+                    "minimized": false,
+                    "text": "Hello!\nThis is a example project for scratch-git!"
+                }
+            },
+            "currentCostume": 0,
+            "costumes": [
+                {
+                    "name": "造型1",
+                    "bitmapResolution": 1,
+                    "dataFormat": "svg",
+                    "assetId": "927d672925e7b99f7813735c484c6922",
+                    "md5ext": "927d672925e7b99f7813735c484c6922.svg",
+                    "rotationCenterX": 30.74937882782359,
+                    "rotationCenterY": 58.864768144346826
+                }
+            ],
+            "sounds": [
+                {
+                    "name": "Snap",
+                    "assetId": "c2ff5da4d9d85dee866615f672b749ce",
+                    "dataFormat": "wav",
+                    "rate": 48000,
+                    "sampleCount": 33436,
+                    "md5ext": "c2ff5da4d9d85dee866615f672b749ce.wav"
+                }
+            ],
+            "volume": 100,
+            "layerOrder": 1,
+            "visible": true,
+            "x": 0,
+            "y": 0,
+            "size": 100,
+            "direction": 90,
+            "draggable": false,
+            "rotationStyle": "all around"
+        }
+    ],
+    "monitors": [],
+    "extensions": [],
+    "meta": {
+        "semver": "3.0.0",
+        "vm": "0.2.0",
+        "agent": "",
+        "platform": {
+            "name": "TurboWarp",
+            "url": "https://turbowarp.org/"
+        }
+    }
+}
